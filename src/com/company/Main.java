@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Została utworzona nowa gałąź secondBranch");
         System.out.println("Commit na main");
         System.out.println("Zapis stworzony przez Marka");
+        System.out.println("Hejka MAtil z tej strony - szczerze nie w pełni ogarniam tego GitHuba, cos tam klinke i sie dzieje... czarna magia");
     }
 }
