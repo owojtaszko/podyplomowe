@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Test");
 
         System.out.println("Została utworzona nowa gałąź secondBranch");
+        System.out.println("Commit na main");
     }
 }
