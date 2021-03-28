@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/technikiProgramowania.iml" filepath="$PROJECT_DIR$/technikiProgramowania.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/technikiProgramowania.iml" filepath="$PROJECT_DIR$/.idea/technikiProgramowania.iml" />
+>>>>>>> main
     </modules>
   </component>
 </project>
